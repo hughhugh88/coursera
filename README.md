@@ -3,5 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Cursera is Cool!</title>
-  <head>
-<html>
+  </head>
+  <body>
+    Coursera is so COOL!
+  </body>
+</html>
