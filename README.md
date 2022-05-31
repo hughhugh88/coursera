@@ -1,2 +1,7 @@
-<h1>coursera<h1>
-<p>asdfasdf</p>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Cursera is Cool!</title>
+  <head>
+<html>
